@@ -1,4 +1,4 @@
-WebSocketsDemoInProgress
+WebSocketsDemo
 ========================
 
 Here it is - small demo showing .NET(C#) Websockets in action. 
